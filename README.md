@@ -10,4 +10,13 @@
 
 ## 4.1
 
-2025年4月1日：智能指针等，110 ok。
+2025年4月1日：智能指针等。
+
+## 4.6
+
+2025年4月6日：110ok。
+按照教程配置环境 https://learningos.cn/rCore-Tutorial-Guide-2025S/0setup-devel-env.html
+
+## 4.7
+
+2025年4月7日：很多概念都不懂，链接器，反汇编看的也云里雾里，于是换了详细版rCore-Tutorial-Book-v3 3.6.0-alpha.1文档，
