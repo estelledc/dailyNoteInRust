@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "77f175e589addeef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
             "id": "e335eca63fc13b15",
             "type": "leaf",
             "state": {
@@ -34,8 +48,23 @@
               "icon": "lucide-file",
               "title": "2025-04-26"
             }
+          },
+          {
+            "id": "fcf06e9a6e137d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ch8 report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ch8 report"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "af7f77876e814a30",
@@ -157,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ch5 report.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ch5 report 的大纲"
+              "title": "README 的大纲"
             }
           }
         ],
@@ -184,15 +212,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7178deff452e0cd",
+  "active": "77f175e589addeef",
   "lastOpenFiles": [
-    "ch4 report.md",
+    "prompt.md",
+    "README.md",
+    "2025-04-27.md",
+    "ch6 report.md",
     "2025-04-26.md",
+    "ch8 report.md",
     "ch5 report.md",
+    "ch4 report.md",
     "ch3 report.md",
     "2025-04-22.md",
     "2025-04-21.md",
-    "README.md",
     "2025-04-17.md",
     "April17.md",
     "April6.md",
